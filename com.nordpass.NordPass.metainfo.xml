@@ -6,6 +6,7 @@
     <name>NordPass Password Manager</name>
     <summary>An easy to use password manager brought to you by cybersecurity experts.</summary>
     <description>
+        <p>**NOTE: This wrapper is not verified by, affiliated with, or supported by NordPass**</p>
         <p>NordPass - an easy to use password manager brought to you by cybersecurity experts. Keep passwords in a secure vault, access when and where you need them.</p>
         <p>NordPass is designed by the same team that created a leading VPN service, now trusted by more than 12 million users - NordVPN. Therefore, security and simplicity are the top NordPass priorities.</p>
         <p>With NordPass, store your passwords and secure notes all in one place, access them on any device, and share them with people you trust. Your passwords are protected by the latest encryption algorithm, XChaCha20, and zero-knowledge architecture. Your passwords are yours to have - we know nothing.</p>
@@ -21,7 +22,6 @@
         </ul>
         <p>How much does NordPass cost?</p>
         <p>NordPass is free to use, whether it is a browser extension or an app. Want to access more features like secure password sharing or access your passwords on more than one device at once? Try NordPass Premium.</p>
-        <p>NOTE: This wrapper is not verified by, affiliated with, or supported by NordPass</p>
     </description>
     <url type="help">https://support.nordpass.com/hc/en-us/</url>
     <url type="homepage">https://nordpass.com/</url>
