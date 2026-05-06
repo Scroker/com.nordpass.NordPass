@@ -2,8 +2,6 @@
 
 Flatpak packaging for [NordPass](https://nordpass.com/), a password manager by Nord Security.
 
-> **Note:** This package is marked end-of-life (`flathub.json`). The upstream application is no longer maintained on Flathub.
-
 ## How it works
 
 The Flatpak wraps the official NordPass Snap package rather than building from source:
